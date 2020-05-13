@@ -934,7 +934,7 @@ html {
 body {
     background:#fff;
     background-attachment:fixed;
-    cursor:url(https://cdn.jsdelivr.net/gh/kaixc/cdn/cursor/normal.cur),auto
+    cursor:url(https://cdn.jsdelivr.net/gh/kaixc/cdn@1.2/cursor/normal.cur),auto
 }
 blockquote:before,blockquote:after,q:before,q:after {
     content:""
